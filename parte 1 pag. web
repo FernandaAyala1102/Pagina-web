@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+</head>
+<body>
+  <div class="head">
+<div class="logo">
+    <a href="https://www.pinterest.com.mx/pin/636203884853782862/">Logo</a>
+    <div class="Logo">
+    <img src="https://www.pinterest.com.mx/pin/636203884853782862/" alt="">
+    </div>
+    <nav class="navbar">
+<a href="#">inicio</a>
+<a href="#">Nosotros</a>
+<a href="#">Producto</a>
+<a href="#">Precio</a>
+<a href="#">Contacto</a>
+    </nav>
+</div>
+  </div>
+
+<header class="content header">
+<h2 class="title">Inicio</h2>
+<p><b> Blackpink es un grupo femenino surcoreano formado por YG Entertainment. Está integrado por cuatro miembros: Jisoo, Jennie, Rosé y Lisa. El grupo debutó el 8 de agosto de 2016, con su álbum sencillo titulado Square One, el cual está compuesto por «Whistle», su primera canción número uno en Corea del Sur.</p></b>
+<a href="https://es.wikipedia.org/wiki/Blackpink" class="btn">Saber mas informacion</a>
+
+</header>
+
+<section class="content sau">
+    <h1>Albumes</h1>
+    <div class="pink venom">
+        <img src="https://http2.mlstatic.com/D_NQ_NP_959378-MLM51093774825_082022-O.webp" alt="">
+    </div>
+    <p><b> <h2> Blackpink - 2nd Album Born Pink - Preventa Yg O Weverse </h2></b> </p>
+
+    <div class="box-cointainer">
+        <div class="box">
+<i class="fab fa-angular"></i>
+<h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis dignissimos ipsum quia doloribus qui incidunt expedita voluptatibus fugit?</h3>
+        </div>
+
+        <div class="box">
+            <i class="fab fa-apple"></i>
+            <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis dignissimos ipsum quia doloribus qui incidunt expedita voluptatibus fugit?</h3>
+                    </div>
+
+                    <div class="box">
+                        <i class="fab fa-android"></i>
+                        <h3>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis dignissimos ipsum quia doloribus qui incidunt expedita voluptatibus fugit?</h3>
+                                </div>
+    </div>
+</section>
+
+<section class="content price">
+    <article class="contain">
+<h2 class="title"> Precio </h2>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt molestiae officiis nostrum, placeat deleniti hic fugiat quisquam?
+</p>
+<a href="#" class="btn">Saber Precio</a>
+    </article>
+</section>
+
+<section class="content about">
+    <h2 class="title">Nosotros</h2>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt molestiae officiis nostrum, placeat deleniti hic fugiat quisquam?
+    </p>
+    <div class="box-container2">
+<div class="box">
+    <img src="https://i.pinimg.com/564x/63/55/7e/63557e9c45f24901085f8b990e503bc0.jpg" alt="">
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+    <div class="Stars">
+        <i class="fas-fa-star"></i>
+        <i class="fas-fa-star"></i>
+        <i class="fas-fa-star"></i>
+        <i class="fas-fa-star"></i>
+    </div>
+</div>
+<div class="box">
+    <img src="https://i.pinimg.com/564x/5f/e9/79/5fe979094767d444bf8df250e7ff39e2.jpg" alt="">
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+    <div class="Stars">
+        <i class="fas-fa-star"></i>
+        <i class="fas-fa-star"></i>
+        <i class="fas-fa-star"></i>
+        <i class="fas-fa-star"></i>
+    </div>
+</div>
+<div class="box">
+    <img src="https://i.pinimg.com/564x/b7/53/fc/b753fc9c8651b5cbd6cda80c45b808ab.jpg" alt="">
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+    <div class="Stars">
+        <i class="fas-fa-star"></i>
+        <i class="fas-fa-star"></i>
+        <i class="fas-fa-star"></i>
+        <i class="fas-fa-star"></i>
+    </div>
+    <div class="box">
+        <img src="https://i.pinimg.com/564x/55/96/88/55968854416656913f30c8dad5190855.jpg" alt="">
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+        <div class="Stars">
+            <i class="fas-fa-star"></i>
+            <i class="fas-fa-star"></i>
+            <i class="fas-fa-star"></i>
+            <i class="fas-fa-star"></i>
+        </div>
+</div>
+
+    </div>
+</section>
+
+<section class="content contact">
+    <h2 class="title">Contacto</h2>
+
+    <div class="footer-section">
+
+        <div>
+            <p>+52 8116487546</p>
+        </div>
+
+        <div class="f-enlaces">
+            <a href="#">
+                <a href="#">inicio</a>
+<a href="#">Nosotros</a>
+<a href="#">Producto</a>
+<a href="#">Precio</a>
+<a href="#">Contacto</a>
+            </a>
+        </div>
+       
+        <div class="f-enlaces">
+            <a href="#">
+                <a href="#">inicio</a>
+<a href="#">Nosotros</a>
+<a href="#">Producto</a>
+<a href="#">Precio</a>
+<a href="#">Contacto</a>
+            </a>
+        </div>
+
+        <figure>
+            <img src="https://api.mapbox.com/styles/v1/foursquare/ck7qb70u80y131ioatgsocaf7/tiles/15/27935/12691?access_token=pk.eyJ1IjoiZm91cnNxdWFyZSIsImEiOiJjRGRqOVZZIn0.rMLhJeqI_4VnU2YdIJvD3Q"  alt="Mapa">
+        </figure>
+    </div>
+</section>
+</body>
+</html>
+
